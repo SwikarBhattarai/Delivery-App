@@ -1,0 +1,6 @@
+module Pods_ENGARDE {
+  umbrella header "Pods-ENGARDE-umbrella.h"
+
+  export *
+  module * { export * }
+}

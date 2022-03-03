@@ -1,0 +1,6 @@
+module Pods_ENGARDE_ENGARDETests {
+  umbrella header "Pods-ENGARDE-ENGARDETests-umbrella.h"
+
+  export *
+  module * { export * }
+}
